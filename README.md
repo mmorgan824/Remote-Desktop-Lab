@@ -2,7 +2,7 @@ In this lab, I demonstrated remote access to both a Windows Server 2022 virtual 
 
 Step 1, open VirtualBox and ensure that your WS22 VM is connnected to a Bridged Network with the Host computer.
 
-![Ensure WS22 Connected via Brided network ](https://github.com/user-attachments/assets/2516446c-22ef-4cfa-8436-27d76bfd674a)
+![Ensure WS22 Connected via Brided network ](https://github.com/user-attachments/assets/93e0c3fa-0bd0-4481-a161-fdc80ee88401)
 
 Step 2, in WS22 Allow Remote connections and ensure that Remote Desktop Protocol (RDP) is checked.
 
